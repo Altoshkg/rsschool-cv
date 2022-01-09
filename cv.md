@@ -3,3 +3,8 @@
 * Location: Bishkek / Asia
 * Email: altynasan84@gmail.com
 * Github: https://github.com/Altoshkg
+
+## Skill:
+* HTML
+* CSS
+* GitHub
