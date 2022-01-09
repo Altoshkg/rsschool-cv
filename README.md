@@ -1,2 +1,2 @@
 # rsschool-cv
-https://Altoshkg.github.io/rsschool-cv/cv
+https://github.com/Altoshkg/rsschool-cv/blob/rsschool-cv-html/cv.md
